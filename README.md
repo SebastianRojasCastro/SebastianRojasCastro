@@ -14,8 +14,8 @@ Cuento con experiencia en diseño de interfaces, optimización de flujos de usua
 🌱 Me comprometo con el aprendizaje constante, asumo cada proyecto como una oportunidad para evolucionar y contribuir activamente al crecimiento competitivo de la empresa, a través de un diseño empático, funcional y alineado a objetivos reales.
 
 * **Me interesa el Diseño Web y Mobile, Desarrollo Front-End, y las Redes Sociales**
-- 🌱 Actualmente estoy aprendiendo ...
-  - Java
+- 📚 Actualmente estoy aprendiendo ...
+  - Angular
   - React js
 - 👯 Estoy deseando colaborar en proyectos de código abierto y diseño.
 - ✔ Pregúntame sobre cualquier cosa, estaré encantado de ayudarte, ¡Tus proyectos para mi son un lujo!😉<br>
