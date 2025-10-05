@@ -4,7 +4,7 @@
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
 💻 Soy un Diseñador UX/UI y Product Designer enfocado en la creación de experiencias digitales (Web, Mobile, etc).
 Cuento con experiencia en diseño de interfaces, optimización de flujos de usuario, control de calidad (QA) de productos digitales y coordinación de equipos multidisciplinarios. Me especializo en traducir objetivos estratégicos en soluciones visuales de alta fidelidad que garantizan la continuidad y efectividad de la experiencia del usuario.
